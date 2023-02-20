@@ -10,7 +10,7 @@ The Portfolio section showcases my past projects and experiences. This section i
 Contact Me
 In the Contact Me section, you can find my contact information, including my email address and links to my social media profiles. You can also use the form provided to send me a message directly from my website.
 
-Technologies Used
+Languages Used
 HTML
 CSS
 SCSS
